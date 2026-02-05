@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <meta charset="utf-8" />
+  <title>The Trove | PNU NAT2O </title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css"> 
+ 
+</head>
+<body>
+  <!-- NAVBAR -->
+  <div class="navbar">
+    <img src="https://i.imgur.com/tduB8JS.png" class="logo" alt="The Trove Logo">
+    <br>
+    <br>
+    <ul>
+      <li onclick="showHero()">Home</li>
+      <br><br>
+      <li class="dropdown"> Collection
+        <div class="dropdown-content" role="menu" aria-label="Collection categories">
+          <a href="#section-category-1" onclick="goToCollection('section-category-1')">Category 1</a>
+          <a href="#section-category-2" onclick="goToCollection('section-category-2')">Category 2</a>
+          <a href="#section-category-3" onclick="goToCollection('section-category-3')">Category 3</a>
+        </div>
+      </li>
+      <br>
+      <br>
+      <li onclick="showHowToBorrow()">HOW TO BORRROW</li>
+      <br>
+       <br>
+      <li onclick="showGuidelines()">Guidelines</li>
+      <br>
+      <br>
+    <li onclick="showFAQ()">FAQs</li>
+      <br>
+      <br>
+      <li onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdxOJOTQD4HIleqi6Saezly0iWhGex-7s-fBNA3MXOrkrtYJw/viewform', '_blank')">Reserve Now</li>
+      
+    </ul>
+  </div>
+
+  <!-- HERO -->
+  <div class="hero" id="hero">
+    <h2>BROWSE THE TROVE!</h2>
+    <p>Check out the games you can borrow and their current availability.</p>
+  </div>
+
+  <!-- GUIDELINES SECTION -->
+
+<div id="guidelinesSection">
+  <div class="guidelines-hero">
+    <h2>BORROWING GUIDELINES</h2>
+    <p>Play fair, care for the games, and keep The Trove fun for everyone.</p>
+  </div>
+  
+  <div class="guidelines-content">
+    <!-- Intro Text -->
+    <p class="intro-text">
+      The Trove is a <strong>shared collection</strong> managed by PNU NAT2O. By borrowing from it, you <strong>agree</strong> to care for the games and follow these guidelines to ensure everyone gets to enjoy them.
+    </p>
+    
+    <!-- General Rules Section -->
+    <h3 class="section-header">GENERAL RULES</h3>
+    
+    <div class="rules-list">
+      <p><strong>• Borrowing Limit:</strong> One (1) game at a time per borrower.</p>
+      
+      <p><strong>• Borrowing Periods:</strong></p>
+      <div class="sub-list">
+        <p>> 1 day - No reservation required</p>
+        <p>> 3 days - Reserve at least 2 days in advance</p>
+        <p>> 1 week - Reserve at least 2 days in advance</p>
+      </div>
+      
+      <p><strong>• Borrowing Fees:</strong> Games are categorized by market value, with higher categories costing more to borrow.  Borrowing fees are to be collected on the date of borrowing, and can be done either physically or digitally through Gcash.</p>
+    </div>
+    
+    <!-- Borrowing Fees Table -->
+    <table class="fees-table">
+      <thead>
+        <tr>
+          <th colspan="7" class="table-title">BORROWING FEES TABLE</th>
+        </tr>
+        <tr>
+          <th rowspan="2" class="category-header">CATEGORY</th>
+          <th colspan="2" class="period-header">1 DAY</th>
+          <th colspan="2" class="period-header">3 DAYS</th>
+          <th colspan="2" class="period-header">1 WEEK</th>
+        </tr>
+        <tr>
+          <th class="type-header">Non-Member</th>
+          <th class="type-header member">Member</th>
+          <th class="type-header">Non-Member</th>
+          <th class="type-header member">Member</th>
+          <th class="type-header">Non-Member</th>
+          <th class="type-header member">Member</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="category-cell"> 1 </td>
+          <td>₱10</td>
+          <td class="member-cell">FREE</td>
+          <td>₱20</td>
+          <td class="member-cell">FREE</td>
+          <td>₱30</td>
+          <td class="member-cell">FREE</td>
+        </tr>
+        <tr>
+          <td class="category-cell">2</td>
+          <td>₱20</td>
+          <td class="member-cell">₱16</td>
+          <td>₱30</td>
+          <td class="member-cell">₱24</td>
+          <td>₱50</td>
+          <td class="member-cell">₱40</td>
+        </tr>
+        <tr>
+          <td class="category-cell">3</td>
+          <td>₱50</td>
+          <td class="member-cell">₱40</td>
+          <td>₱100</td>
+          <td class="member-cell">₱80</td>
+          <td>₱200</td>
+          <td class="member-cell">₱160</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <!-- Additional Rules -->
+    <div class="additional-rules">
+      <p><strong>• Priority:</strong> Members have priority access. Otherwise, games are lent on a first-come, first-served basis.</p>
+      
+      <p><strong>• Extensions:</strong> Borrowing periods cannot be extended except in cases of class suspension, weather-related incidents, or medical/family emergencies. If no Trovekeeper is available for scheduled returns, reschedule and waive late fees.</p>
+      
+      <p><strong>• Weekend Borrowing:</strong> Games cannot be borrowed on Saturday and Sunday. It is also prohibited to borrow for a day on a Friday.</p>
+      
+      <p><strong>• Responsibility:</strong> The borrower is solely responsible for the game from the moment it is checked out until the return process is officially completed.</p>
+    </div>
+
+<!-- Care & Responsibility Section -->
+<h3 class="section-header">CARE & RESPONSIBILITY</h3>
+
+<div class="additional-rules">
+  <p><strong>• Missing Pieces:</strong> Before checking out, check the contents of the game to be borrowed. Note missing pieces on the form. Unreported missing pieces will be your responsibility.</p>
+  
+  <p><strong>• Borrower Responsibility:</strong> You are responsible for the game from checkout until it is officially returned.</p>
+  
+  <p><strong>• Handling:</strong> Keep food/drinks away and avoid writing or bending components.</p>
+  
+  <p><strong>• Sanitization:</strong> If the game requires cleaning, use a <strong>dry cloth</strong> on plastic/laminated components only. <strong>Do not use liquid cleaners</strong> on paper components or wooden pieces.</p>
+</div>
+
+<!-- Consequences Section -->
+<h3 class="section-header">CONSEQUENCES OF NON-COMPLIANCE</h3>
+
+<div class="additional-rules">
+  <p><strong>• Late Returns:</strong> Daily late fees apply based on game category (daily late fee is equivalent to daily borrowing fee; will not exceed replacement cost).</p>
+  
+  <p><strong>• Damaged/Lost Items:</strong> You are responsible for replacing lost or damaged items at current market value. Replaceable components must be purchased.</p>
+  
+  <p><strong>• Suspension:</strong> Unresolved issues result in suspended borrowing privileges. Repeat violations may result in a temporary or permanent ban.</p>
+</div>
+
+<!-- University Policy Section -->
+<h3 class="section-header">UNIVERSITY POLICY REMINDER</h3>
+
+<div class="additional-rules">
+  <p>Borrowing from The Trove is a trust-based privilege. Under the 2024 PNU Student Handbook, <strong>theft or misappropriation of property</strong> within University premises is a <strong>major offense</strong>, punishable by suspension or expulsion. Help us keep The Trove fair and accessible by respecting this policy.</p>
+</div>
+
+
+
+  </div>
+  </div>
+
+  
+<!-- HOW TO BORROW SECTION -->
+
+  
+<div id="howToBorrowSection">
+  <div class="howto-hero">
+    <h2>YOUR GUIDE TO BORROWING</h2>
+    <p>Everything you need to know so you can enjoy our games worry-free.</p>
+  </div>
+  
+  <div class="howto-content">
+    <h3 class="section-header">HOW TO BORROW?</h3>
+    
+    <div class="steps-container">
+      <!-- Step 1 -->
+      <div class="step-card">
+        <div class="step-number">1</div>
+        <div class="step-content">
+          <h4>RESERVING</h4>
+          <p><strong>BEFORE BORROWING</strong>, read the guidelines.</p>
+          <p>Fill out the online <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxOJOTQD4HIleqi6Saezly0iWhGex-7s-fBNA3MXOrkrtYJw/viewform" target="_blank" class="form-link">Google Form reservation</a> at least 2 days in advance.</p>
+          <p>Wait for confirmation from our official channels before coming to claim the game.</p>
+        </div>
+        <div class="step-number-bottom">1</div>
+      </div>
+      
+      <!-- Step 2 -->
+      <div class="step-card">
+        <div class="step-number">2</div>
+        <div class="step-content">
+          <h4>BORROWING</h4>
+          <p>On your scheduled pickup day, fill out a physical borrowing form and sign it along with a designated Trove Officer. The form records:</p>
+          <ul>
+            <li>The game's title and game ID</li>
+            <li>Your name, program/year, and contact number</li>
+            <li>The date it is borrowed and the due date for return</li>
+            <li>The game's condition, including number of pieces/items</li>
+            <li>The borrowing fee</li>
+          </ul>
+        </div>
+        <div class="step-number-bottom">2</div>
+      </div>
+      
+      <!-- Step 3 -->
+      <div class="step-card">
+        <div class="step-number">3</div>
+        <div class="step-content">
+          <h4>RETURNING</h4>
+          <p>A designated Trove Officer will contact you about the return. Arrange a return time with the officer. Games must be returned in person at the agreed time and place.</p>
+          <ul>
+            <li>The officer will inspect the game while you are present to confirm that all pieces are accounted for and in the noted condition.</li>
+            <li>You will be asked to sign a final document confirming your return.</li>
+          </ul>
+        </div>
+        <div class="step-number-bottom">3</div>
+      </div>
+    </div>
+    
+    <!-- Who Can Borrow Section -->
+    <h3 class="section-header">WHO CAN BORROW?</h3>
+    
+    <div class="eligibility-container">
+      <div class="eligibility-item">
+        <div class="icon-placeholder">
+          <img src="" alt="Eligibility Icon" class="eligibility-icon" id="eligibilityIcon">
+        </div>
+        <div class="eligibility-text">
+          <strong>Eligibility:</strong> All bona fide students enrolled in PNU Manila. Please present your Student ID or Certificate of Registration when borrowing.
+        </div>
+      </div>
+      
+      <div class="eligibility-item">
+        <div class="icon-placeholder">
+          <img src="" alt="Member Perk Icon" class="eligibility-icon" id="memberPerkIcon">
+        </div>
+        <div class="eligibility-text">
+          <strong>Member Perk:</strong> NAT2O members can borrow Category 1 games for <strong>FREE</strong>, and get a <strong>20% discount</strong> on Category 2 and 3 games.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+  <!-- FAQ SECTION -->
+<div id="faqSection" style="display:none;">
+  <div class="faq-hero">
+    <h2>FREQUENTLY ASKED QUESTIONS</h2>
+    <p>If you don’t see your question here, message us through our official channels!</p>
+  </div>
+
+  <div class="faq-content">
+    <button class="accordion"><strong>Q:</strong> Can I borrow a game if I’m not a NAT20 member?</button>
+    <div class="panel">
+      <p><strong>A:</strong> Yes! The Trove is open to all bona fide PNU Manila students. NAT20 members simply enjoy priority access and discounts.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> Can I borrow more than one game if they’re from different categories?</button>
+    <div class="panel">
+      <p><strong>A:</strong> No, you can only have one game checked out at a time, regardless of category. This keeps the collection available to more borrowers.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> What if I lose just one piece of a game?</button>
+    <div class="panel">
+      <p><strong>A:</strong> If the piece is replaceable, you’ll need to buy a replacement. If it’s an irreplaceable or core component, you may need to pay for a partial or full replacement of the game.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> Can I let my friends borrow the game under my name?</button>
+    <div class="panel">
+      <p><strong>A:</strong> No. Whoever checks out the game is responsible for it until return, even if someone else plays with or borrows it informally.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> What if I can’t return a game on time?</button>
+    <div class="panel">
+      <p><strong>A:</strong> Contact a Trovekeeper as soon as possible. Late fees still apply unless the delay is due to class suspension, weather, or emergencies (subject to review) or full replacement of the game.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> Can alumni borrow from The Trove?</button>
+    <div class="panel">
+      <p><strong>A:</strong> Currently, borrowing is only for enrolled students. Alumni are welcome to play during NAT2O-hosted events but cannot check out games.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> Can I donate a game to The Trove?</button>
+    <div class="panel">
+      <p><strong>A:</strong> Yes! We gladly accept game donations. Contact us first so we can confirm it’s a good fit and add it to the inventory. Donors will have their names listed and get additional benefits depending on the game category.</p>
+    </div>
+
+    <button class="accordion"><strong>Q:</strong> How do I become a NAT2O member to get discounts?</button>
+    <div class="panel">
+      <p><strong>A:</strong> You can apply for membership anytime through this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_8Z_WjyooOIms5GpeMacIS2_MTRNSbYM339NPDA-MUrfPWA/viewform" target="_blank">Google form</a>. Membership is open to all interested students!</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  <!-- Categories -->
+  <div class="section" id="section-category-1">
+    <h3>CATEGORY 1 GAMES</h3>
+    <div class="game-grid" id="grid-category-1"></div>
+  </div>
+  <div class="section" id="section-category-2">
+    <h3>CATEGORY 2 GAMES</h3>
+    <div class="game-grid" id="grid-category-2"></div>
+  </div>
+  <div class="section" id="section-category-3">
+    <h3>CATEGORY 3 GAMES</h3>
+    <div class="game-grid" id="grid-category-3"></div>
+  </div>
+
+  <!-- DETAILS -->
+  <div class="details" id="detailsView" aria-hidden="true">
+    <div class="details-layout">
+      <div class="details-gallery">
+        <div class="thumbnails" id="thumbs"></div>
+        <div class="main-img"><img id="mainImg" src="" alt=""></div>
+      </div>
+      <div class="details-info">
+        <p><strong id="detailsCategory">CATEGORY</strong></p>
+        <h2 id="detailsTitle"></h2>
+        <p id="detailsPlayers"></p>
+        <p id="detailsPlaytime"></p>
+        <p id="detailsStatus" class="status"></p>
+       <button class="reserve-btn" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdxOJOTQD4HIleqi6Saezly0iWhGex-7s-fBNA3MXOrkrtYJw/viewform', '_blank')">RESERVE NOW!</button>
+        <div style="margin-top:20px;font-size:14px;">
+          <p><strong>Includes:</strong></p>
+          <ul id="detailsIncludes"></ul>
+          <p>Copies owned: <span id="detailsCopies"></span></p>
+          <p>Donated by: <span id="detailsDonor"></span></p>
+        </div>
+      </div>
+    </div>
+    <div class="details-desc" id="detailsDesc"></div>
+    <div style="margin-top:18px;">
+      <button onclick="hideDetails()" class="reserve-btn" style="background:#555;">← Back to Collection</button>
+    </div>
+  </div>
+
+  <div class="footer">© 2025 PNU Narrative Arts & Tabletop Organization NAT2O | All Rights Reserved</div>
+
+  
+  <script src="script.js"></script>
+</body>
+</html>
+
