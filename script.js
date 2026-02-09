@@ -1,4 +1,5 @@
 
+    
     const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSXxxanvdsuF_vjCGQjki2TSbsrCbxX_-c3iPgJuCvudgP-j4mXsvSxUK2RtdeVQwQ9PigUtQlEstLF/pub?output=csv";
 
     function normalizeTitle(s){
@@ -334,8 +335,261 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
     images: ["https://imgs.search.brave.com/GCYMJhA_lqdfPW3dAJi_MPG5jMX9gejzn0fq3ZwSbjE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFiMVZ5ZjB5Skwu/anBn",
     "https://imgs.search.brave.com/risJpErgr2ufgKNvpcwHb7wclqKzSKxzikh_2jNMb1o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29nc3RveXNhbmRn/YW1lcy5pZS9jZG4v/c2hvcC9wcm9kdWN0/cy9GSUhTWS5qcGc_/dj0xNjgzNTMxNzE3/JndpZHRoPTE1MDA"
     ]
+  },
+
+  "explodingkittens": {
+    title: "Exploding Kittens",
+    category: "Category 1",
+    players: "2–5 players",
+    playtime: "15 min",
+    description: "A strategic card game full of kittens, explosions, and sometimes goats. Players draw cards until someone draws an Exploding Kitten and loses. Use action cards to avoid, mitigate, or cause explosions to stay in the game.",
+    includes: [
+      "56x Cards",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Katlin Doroja",
+    images: ["https://imgs.search.brave.com/RW2vogrBbuLdPPovf2lUQJ9hrk81UGGrQUhUvXx3rbg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXhwbG9kaW5na2l0/dGVucy5jb20vY2Ru/L3Nob3AvZmlsZXMv/NTM1eDQ0MF9QYWNr/X1Nob3RfMGI4N2I1/YWItYTI4MS00MTky/LWFmMTQtOTMxMDg5/MGNmZTdlLnBuZz92/PTE2ODkyNjI3MDMm/d2lkdGg9MTUwMA",
+    "https://imgs.search.brave.com/zS02BBgJjdr_xptqjDJ7MMKKyNEWfjDfn1AYutyuOEk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sdWNr/YW5kc3RyYXRlZ3ku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzAxL0V4cGxv/ZGluZy1LaXR0ZW5z/LWFjdGlvbi1jYXJk/cy0xMDI0eDc3MS5q/cGc"]
+  },
+
+  "fakeartistgoestonewyork": {
+    title: "Fake Artist Goes to New York",
+    category: "Category 1",
+    players: "5–10 players",
+    playtime: "20 min",
+    description: "A social deduction drawing game where players collaboratively draw a picture, but one player is the fake artist who doesn't know what they're drawing. Everyone tries to identify the faker while the faker tries to blend in.",
+    includes: [
+      "Question Cards",
+      "Dry Erase Markers",
+      "Whiteboards",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/eEI48ZEz0qZNr823oFhK4IctqM6FKTU_63vWa81w38A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmVz/cy5pbnZpbmNpYmxl/Lmluay93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8xMS9mYXJ0/aXN0LnBuZw",
+    "https://imgs.search.brave.com/7OkV_qJ2yb69gocMkq-A9tLf1-mEE52p1dgTEJj3H0Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF3YXBCbEVLS0wu/anBn"]
+  },
+
+  "explodingkittensnsfw": {
+    title: "Exploding Kittens (NSFW)",
+    category: "Category 1",
+    players: "2–5 players",
+    playtime: "15 min",
+    description: "The adult version of Exploding Kittens with inappropriate humor and mature content. Same strategic gameplay but with NSFW illustrations and themes. For mature audiences only.",
+    includes: [
+      "56x Cards",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Emmanuel David Tolentino",
+    images: ["https://imgs.search.brave.com/awWBtSFWEJSUZGjpxJTDun6k-9yb3C56NgbNPEoGkW0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mbHlp/bmdwaWd0b3lzLmNv/bS9jZG4vc2hvcC9m/aWxlcy9FS19OU0ZX/X1YyLUhlcm9fMTMw/MHhfMWU4YmY0MDIt/OGM3OS00ZTBjLWEx/MGYtZTFlZDk2ZTY5/MDIzXzQwMHgucG5n/P3Y9MTcyMDI4NDcw/MQ",
+    "https://imgs.search.brave.com/jk6Jmi5RYiZVY32xR58J4w0scYaTUexcbUN3fR56_NQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3ZjLmFzbW9kZWUu/bmV0L3Byb2R1Y3Rp/b24tYXNtb2RlZWNh/L3VwbG9hZHMvaW1h/Z2UtY29udmVydGVy/LzIwMjMvMDQvRUtH/LU5TRlctNi1FWFBM/T0RJTkdfS0lUVEVO/Uy1OU0ZXLUVOLTNE/X1JJR0hULTEwMjR4/MTAyNC53ZWJw"]
+  },
+
+  "rummikub": {
+    title: "Rummikub",
+    category: "Category 1",
+    players: "2–4 players",
+    playtime: "30–60 min",
+    description: "A tile-based game combining elements of rummy and mahjong. Players manipulate sets and runs of numbered tiles to be the first to use all their tiles. Strategic thinking and pattern recognition are key.",
+    includes: [
+      "106x Tiles",
+      "4x Tile Racks",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Clare Trasga",
+    images: ["https://imgs.search.brave.com/YcBcaRVLdTCjh-yAtf-Lsm7nBYI1DlQXxR97oBCsvlQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z29vZHBsYXlndWlk/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMTIvUnVt/bWlrdWItMy5wbmc",
+    "https://imgs.search.brave.com/6_85zS3OBjHgo81569wH3UHlcpwBhbe3OSGQj7QjMGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9ydW1t/aWt1Yi10aWxlcy1z/aG93aW5nLW5ldy15/ZWFyLWdhbWUtc3Rp/bGwtcGxheWluZy13/aW5uZXItbGVpc3Vy/ZS1jb21wZXRpdGlv/bi1jaGFsbGVuZ2Ut/Ym9hcmQtZ2FtZS1m/YW1pbHktdGltZS0x/NjU2NzQ0OTYuanBn"]
+  },
+
+  "go": {
+    title: "Go",
+    category: "Category 1",
+    players: "2 players",
+    playtime: "30–180 min",
+    description: "An ancient Chinese strategy board game where players place black and white stones to surround territory. Simple rules but incredibly deep strategic gameplay that has been played for thousands of years.",
+    includes: [
+      "Go Board",
+      "Black Stones",
+      "White Stones",
+      "Bowls",
+      "1x Instruction Manual"
+    ],
+    copies: 1,
+    donor: "DavidEmmanuel  Tolentino",
+    images: ["https://imgs.search.brave.com/ZQ-6Kj72QfPCP3FiA_-CS8ZBagqx1z8gTTyjmp_ps8I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzF0bTFUVU1sZVMu/anBn",
+    "https://imgs.search.brave.com/vT2LARK2F0JnLnCoExtPMtK9_lDMgjWomK-p9mmKlE0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/OWVlYmJmZWQtMDAx/NS00OGQzLTk1NmIt/ZmNiZmEyODE4OTlm/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn"]
+  },
+
+  "farkle": {
+    title: "Farkle",
+    category: "Category 1",
+    players: "2+ players",
+    playtime: "30 min",
+    description: "A press-your-luck dice game where players roll to score points but risk losing everything if they farkle. Easy to learn with addictive gameplay that keeps everyone engaged.",
+    includes: [
+      "6x Dice",
+      "Score Pad",
+      "1x Instruction Manual",
+      "1x Container/Box"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/pmPIHdSpk3sw-_8lnXuNX28nqpVGDYfQPuktItVaD7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy03MDE4/NC9pbWFnZXMvc3Rl/bmNpbC8zNTB4MzUw/L3Byb2R1Y3RzLzQ0/NjUvMTI3NTgvZmFy/a2xlLWJveGVkLWdh/bWVfXzE5MTI3LjE3/MDI0MTI5OTguanBn/P2M9Mg",
+    "https://imgs.search.brave.com/ybBsPVcBk9SQodCLfu5iVqfHXcLbUruxRl8VsyOYiJ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGxheW1vbnN0ZXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzA4LzY5MTlf/RmFya2xlX2JveDQt/NDE2eDMxMi5qcGc"]
+  },
+
+  "bogglea": {
+    title: "Boggle A",
+    category: "Category 1",
+    players: "2+ players",
+    playtime: "10 min",
+    description: "A fast-paced word game where players shake the grid and race to find as many words as possible in the jumbled letters. Perfect for word enthusiasts and quick thinking.",
+    includes: [
+      "Boggle Grid with Cover",
+      "16x Letter Cubes",
+      "Timer",
+      "Score Pads",
+      "1x Instruction Manual"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/iSqmHmfPuoDKvscRfO1hBuFPZQSSqsVg_m5xN6L9jwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy91Z01BQWVTd2Ft/cHBOSHVpL3MtbDQw/MC53ZWJw",
+    "https://imgs.search.brave.com/F5IGKfDF5g62x6QuXch6ozvGhd4MfTwPGsCRC9T2XC0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Vw/ZXItSW1wdWxzZS1T/VUktNTA2MS1DLVdv/cmxkcy1TbWFsbGVz/dC1Cb2dnbGUtR2Ft/ZV84ODQzMzRiMy02/ZGM4LTRjYTMtODlj/OS04OWU2YWI3NmQ3/NDYuNmFkYmViMTQz/MDhhODNlOWRhM2Rk/NTQ2MjA0M2IwOTAu/anBlZz9vZG5IZWln/aHQ9NTgwJm9kbldp/ZHRoPTU4MCZvZG5C/Zz1GRkZGRkY"]
+  },
+
+  "boggleb": {
+    title: "Boggle B",
+    category: "Category 1",
+    players: "2+ players",
+    playtime: "10 min",
+    description: "A second copy of the classic Boggle word game. Shake the grid and find words in the letter jumble. Great for larger groups or tournaments.",
+    includes: [
+      "Boggle Grid with Cover",
+      "16x Letter Cubes",
+      "Timer",
+      "Score Pads",
+      "1x Instruction Manual"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/iSqmHmfPuoDKvscRfO1hBuFPZQSSqsVg_m5xN6L9jwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy91Z01BQWVTd2Ft/cHBOSHVpL3MtbDQw/MC53ZWJw",
+    "https://imgs.search.brave.com/F5IGKfDF5g62x6QuXch6ozvGhd4MfTwPGsCRC9T2XC0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Vw/ZXItSW1wdWxzZS1T/VUktNTA2MS1DLVdv/cmxkcy1TbWFsbGVz/dC1Cb2dnbGUtR2Ft/ZV84ODQzMzRiMy02/ZGM4LTRjYTMtODlj/OS04OWU2YWI3NmQ3/NDYuNmFkYmViMTQz/MDhhODNlOWRhM2Rk/NTQ2MjA0M2IwOTAu/anBlZz9vZG5IZWln/aHQ9NTgwJm9kbldp/ZHRoPTU4MCZvZG5C/Zz1GRkZGRkY"]
+  },
+
+  "gameofthegenerals": {
+    title: "Game of the Generals",
+    category: "Category 2",
+    players: "2 players",
+    playtime: "20–40 min",
+    description: "A Filipino strategy board game where players command armies with different ranked pieces. Unlike chess, piece identities are hidden, adding bluffing and deduction to tactical gameplay.",
+    includes: [
+      "Game Board",
+      "Playing Pieces",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Clare Trasga",
+    images: ["https://imgs.search.brave.com/bddunfpI-IXlA7Wr6wZWTlJgMtwYtpmywkAlq1OcU5E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly95dWNo/ZW5nY29tdXNldW0u/b3JnL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzA4L2luc3Rh/Z3JpZF8yMDI0ODEy/MTQ0ODIzOTMtNTAw/eDUwMC1vcHRpbWl6/ZWQuanBn",
+    "https://imgs.search.brave.com/llhtcxIjrFwQal9XGp7RSItlF5XyCOrAfbebpYgEey4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZWVr/Ym94cGguY29tL2Nk/bi9zaG9wL2ZpbGVz/L0lNR183MzU2Xzgw/MHguanBnP3Y9MTcz/ODI5ODAxNA"]
+  },
+
+  "onenightultimatewerewolf": {
+    title: "One Night Ultimate Werewolf",
+    category: "Category 1",
+    players: "3–10 players",
+    playtime: "10 min",
+    description: "A fast-paced social deduction game where players have secret roles and must figure out who the werewolves are in just one night. Bluffing, deduction, and accusation make every round intense.",
+    includes: [
+      "Role Cards",
+      "Tokens",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/H7Fi-47kfTILcl5iuSTOXMeuENPeePejF6Z5qn0oVrc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzUy/M2RlZThlZTRiMGM1/OTc3NmVmOGMzYS8x/NjM5MjUyODI2MzMx/LUMySzlGT1I2STYx/MlMwRkVYQTVHL29u/ZStuaWdodCt3ZXJl/d29sZit1bHRpbWF0/ZS5wbmc",
+    "https://imgs.search.brave.com/UdtN5kcJ980bV7N9-CGHgHu9qbydmqXqCKmaOuuWXrw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2Vla3lob2JiaWVz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8wMS9PbmUt/TmlnaHQtVWx0aW1h/dGUtV2VyZXdvbGYt/Q29tcG9uZW50cy03/Mjh4NDEwLmpwZw"]
+  },
+
+  "chess": {
+    title: "Chess",
+    category: "Category 1",
+    players: "2 players",
+    playtime: "30–60 min",
+    description: "The timeless classic strategy game. Command your army of pieces to checkmate the opponent's king. Deep tactical and strategic gameplay that has captivated players for centuries.",
+    includes: [
+      "Chess Board",
+      "32x Chess Pieces",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Thonie Kyle Sanico",
+    images: ["https://imgs.search.brave.com/dlx9RbjxKOOGEeyVH3I23QzrQl49q-7Om_UBB_-SKMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE5/ODI0ODA3L3Bob3Rv/L2NoZXNzLWJveC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/NEs3dUtLMGZTbUYy/S0VicXVZS1AwQ1Mt/OEhaMzBXYUlOU05D/dWpCTWxLQT0",
+   ]
+  },
+
+  "popuppirate": {
+    title: "Pop-up Pirate",
+    category: "Category 1",
+    players: "2–4 players",
+    playtime: "10–15 min",
+    description: "A suspenseful game where players take turns inserting swords into a barrel. One sword will trigger the pirate to pop out! Simple, silly, and fun for all ages.",
+    includes: [
+      "Pirate Barrel",
+      "Swords",
+      "1x Instruction Manual"
+    ],
+    copies: 1,
+    donor: "Clare Trasga",
+    images: ["https://imgs.search.brave.com/CW2bWhgIXXigTCi2woIouoNXg3LGYhiuWTJtZ0JHwEY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1RGY0FB/T1N3eGR0YW45Rzkv/cy1sNDAwLndlYnA",
+    "https://imgs.search.brave.com/3Xw4wlGDrzk4BL1Ugiu244qN5qXGzTjVyGE6CnX2joA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL0MySUFB/ZVN3UzhGb3VOdEcv/cy1sMjI1LmpwZw"]
+  },
+
+  "tortuga": {
+    title: "Tortuga",
+    category: "Category 1",
+    players: "2–9 players",
+    playtime: "20–40 min",
+    description: "A pirate-themed social deduction game with hidden roles. Players are either buccaneers or french, working to load their treasure while sabotaging opponents. Bluffing and teamwork are essential.",
+    includes: [
+      "Role Cards",
+      "Action Cards",
+      "Treasure Tokens",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Clare Trasga",
+    images: ["https://imgs.search.brave.com/H9O9-U1e5NNlNw2wKAiZkywrXT7C3zI2oN3DnMOG7O4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmFudHVja2V0a2lk/cy5jb20vY2RuL3No/b3AvZmlsZXMvODI0/YjRjYjM2MmMwYmQw/ZmRjN2MxYmEwOTA2/YjIwZGQ1MGE5YTgy/OWFlNGU4NmU0Y2Iw/NjVkMzY2MjRkZWZk/ZC5qcGc_dj0xNzI1/MzgyMDU1JndpZHRo/PTEwODA",
+    "https://imgs.search.brave.com/ASgO2X7nq5iBrcgtXtENuRk7JuUOVY5SrR7VO1-9ToU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmFudHVja2V0a2lk/cy5jb20vY2RuL3No/b3AvZmlsZXMvMTJi/YzliODBmODA4ZjRm/NjlkZjdkMWY2ODI3/MWNmOGMyOGZjNDJk/OTFlYmNlMWJhN2Rl/N2YzZmQyOTc5Zjk3/NS5qcGc_dj0xNzI1/MzgyMDYyJndpZHRo/PTEwODA"]
+  },
+
+  "unoflip": {
+    title: "UNO Flip",
+    category: "Category 1",
+    players: "2–10 players",
+    playtime: "30 min",
+    description: "A twist on classic UNO with double-sided cards. The Flip card switches between the light and dark sides, completely changing the game. More strategic and unpredictable than original UNO.",
+    includes: [
+      "112x Double-Sided Cards",
+      "1x Instruction Manual",
+      "1x Box"
+    ],
+    copies: 1,
+    donor: "Clare Trasga",
+    images: ["https://imgs.search.brave.com/UHGYmKTxHTYMVK7M6-FRXM-2GbIl9F1e0JsGZ1U55nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzNTQwMi9maWxl/cy8xOTQyNzAyMy8x/NjAweDIwNDh4Mi9t/YXR0ZWwtaW5jLXVu/by1mbGlwLmpwZw",
+    "https://imgs.search.brave.com/neJPBDMmMTKoHxjA62WgbHm4ikfAE_NUFsqY-Rit5IQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZGQxZDI4YmYtMTU2/NS00N2FiLWE1Y2It/NDQxNjA4YmJmM2E3/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn"]
   }
-};
+  };
 
 
    let statusData={};
@@ -535,4 +789,5 @@ loadStatus();
 document.getElementById('eligibilityIcon').src="https://i.imgur.com/8Ojhue6.png";
 document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
+  
   
