@@ -365,7 +365,8 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
       "Dry Erase Markers",
       "Whiteboards",
       "1x Instruction Manual",
-      "1x Box"
+      "1x Box",
+     "Print and Play version"
     ],
     copies: 1,
     donor: "High Council '25-'26",
@@ -392,7 +393,7 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
 
   "rummikub": {
     title: "Rummikub",
-    category: "Category 1",
+    category: "Category 2",
     players: "2–4 players",
     playtime: "30–60 min",
     description: "A tile-based game combining elements of rummy and mahjong. Players manipulate sets and runs of numbered tiles to be the first to use all their tiles. Strategic thinking and pattern recognition are key.",
@@ -446,7 +447,7 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
   },
 
   "bogglea": {
-    title: "Boggle A",
+    title: "Boggle",
     category: "Category 1",
     players: "2+ players",
     playtime: "10 min",
@@ -458,30 +459,13 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
       "Score Pads",
       "1x Instruction Manual"
     ],
-    copies: 1,
+    copies: 2,
     donor: "High Council '25-'26",
     images: ["https://imgs.search.brave.com/iSqmHmfPuoDKvscRfO1hBuFPZQSSqsVg_m5xN6L9jwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy91Z01BQWVTd2Ft/cHBOSHVpL3MtbDQw/MC53ZWJw",
     "https://imgs.search.brave.com/F5IGKfDF5g62x6QuXch6ozvGhd4MfTwPGsCRC9T2XC0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Vw/ZXItSW1wdWxzZS1T/VUktNTA2MS1DLVdv/cmxkcy1TbWFsbGVz/dC1Cb2dnbGUtR2Ft/ZV84ODQzMzRiMy02/ZGM4LTRjYTMtODlj/OS04OWU2YWI3NmQ3/NDYuNmFkYmViMTQz/MDhhODNlOWRhM2Rk/NTQ2MjA0M2IwOTAu/anBlZz9vZG5IZWln/aHQ9NTgwJm9kbldp/ZHRoPTU4MCZvZG5C/Zz1GRkZGRkY"]
   },
 
-  "boggleb": {
-    title: "Boggle B",
-    category: "Category 1",
-    players: "2+ players",
-    playtime: "10 min",
-    description: "A second copy of the classic Boggle word game. Shake the grid and find words in the letter jumble. Great for larger groups or tournaments.",
-    includes: [
-      "Boggle Grid with Cover",
-      "16x Letter Cubes",
-      "Timer",
-      "Score Pads",
-      "1x Instruction Manual"
-    ],
-    copies: 1,
-    donor: "High Council '25-'26",
-    images: ["https://imgs.search.brave.com/iSqmHmfPuoDKvscRfO1hBuFPZQSSqsVg_m5xN6L9jwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL3Ro/dW1icy9pbWFnZXMv/Zy91Z01BQWVTd2Ft/cHBOSHVpL3MtbDQw/MC53ZWJw",
-    "https://imgs.search.brave.com/F5IGKfDF5g62x6QuXch6ozvGhd4MfTwPGsCRC9T2XC0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vU3Vw/ZXItSW1wdWxzZS1T/VUktNTA2MS1DLVdv/cmxkcy1TbWFsbGVz/dC1Cb2dnbGUtR2Ft/ZV84ODQzMzRiMy02/ZGM4LTRjYTMtODlj/OS04OWU2YWI3NmQ3/NDYuNmFkYmViMTQz/MDhhODNlOWRhM2Rk/NTQ2MjA0M2IwOTAu/anBlZz9vZG5IZWln/aHQ9NTgwJm9kbldp/ZHRoPTU4MCZvZG5C/Zz1GRkZGRkY"]
-  },
+  
 
   "gameofthegenerals": {
     title: "Game of the Generals",
@@ -556,7 +540,7 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
 
   "tortuga": {
     title: "Tortuga",
-    category: "Category 1",
+    category: "Category 2",
     players: "2–9 players",
     playtime: "20–40 min",
     description: "A pirate-themed social deduction game with hidden roles. Players are either buccaneers or french, working to load their treasure while sabotaging opponents. Bluffing and teamwork are essential.",
@@ -569,8 +553,8 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
     ],
     copies: 1,
     donor: "Clare Trasga",
-    images: ["https://imgs.search.brave.com/H9O9-U1e5NNlNw2wKAiZkywrXT7C3zI2oN3DnMOG7O4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmFudHVja2V0a2lk/cy5jb20vY2RuL3No/b3AvZmlsZXMvODI0/YjRjYjM2MmMwYmQw/ZmRjN2MxYmEwOTA2/YjIwZGQ1MGE5YTgy/OWFlNGU4NmU0Y2Iw/NjVkMzY2MjRkZWZk/ZC5qcGc_dj0xNzI1/MzgyMDU1JndpZHRo/PTEwODA",
-    "https://imgs.search.brave.com/ASgO2X7nq5iBrcgtXtENuRk7JuUOVY5SrR7VO1-9ToU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bmFudHVja2V0a2lk/cy5jb20vY2RuL3No/b3AvZmlsZXMvMTJi/YzliODBmODA4ZjRm/NjlkZjdkMWY2ODI3/MWNmOGMyOGZjNDJk/OTFlYmNlMWJhN2Rl/N2YzZmQyOTc5Zjk3/NS5qcGc_dj0xNzI1/MzgyMDYyJndpZHRo/PTEwODA"]
+    images: ["https://cf.geekdo-images.com/60O76oFmWKsrnW6JCjn_xw__itemrep/img/VE7kfKQeDS2xVRMuacs_pYOKZ-g=/fit-in/246x300/filters:strip_icc()/pic581831.jpg",
+            "https://cf.geekdo-images.com/dPNH2FkvrZuspnLg2-TcoQ__crop100@2x/img/bYWWIz0w8ueBoOxo__GJqHrKmZw=/200x200/filters:strip_icc()/pic227848.jpg"]
   },
 
   "unoflip": {
@@ -791,3 +775,4 @@ document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
   
   
+
