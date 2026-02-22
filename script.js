@@ -546,7 +546,7 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
     description: `This 2-player game is played on an hexagonal grid. Each player controls 8 turtles on his side of the board. The winner is the one who will send one of his turtles to the opponent's side
 
 Turtles can be moved one step forwards, or jump over other turtles. Jumping over an opponent's turtle neutralizes it, while jumping over a neutralized turtle activates it again - on either side.`,
- [
+    Includes: [
       "1x Map",
       "Instruction Pamphlet",
       "16x Tortugas (Turtles)",
@@ -777,5 +777,6 @@ document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
   
   
+
 
 
