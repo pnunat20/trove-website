@@ -543,13 +543,15 @@ With its easy-to-learn rules and added twists, UNO: Show ‘Em No Mercy is perfe
     category: "Category 2",
     players: "2–9 players",
     playtime: "20–40 min",
-    description: "A pirate-themed social deduction game with hidden roles. Players are either buccaneers or french, working to load their treasure while sabotaging opponents. Bluffing and teamwork are essential.",
-    includes: [
-      "Role Cards",
-      "Action Cards",
-      "Treasure Tokens",
-      "1x Instruction Manual",
-      "1x Box"
+    description: `This 2-player game is played on an hexagonal grid. Each player controls 8 turtles on his side of the board. The winner is the one who will send one of his turtles to the opponent's side
+
+Turtles can be moved one step forwards, or jump over other turtles. Jumping over an opponent's turtle neutralizes it, while jumping over a neutralized turtle activates it again - on either side.`,
+ [
+      "1x Map",
+      "Instruction Pamphlet",
+      "16x Tortugas (Turtles)",
+      "1x Tortuga Container",
+      
     ],
     copies: 1,
     donor: "Clare Trasga",
@@ -775,4 +777,5 @@ document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
   
   
+
 
