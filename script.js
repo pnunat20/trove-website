@@ -574,9 +574,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     donor: "Clare Trasga",
     images: ["https://imgs.search.brave.com/UHGYmKTxHTYMVK7M6-FRXM-2GbIl9F1e0JsGZ1U55nI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGxpZ2h0c3Bl/ZWQuY29tL3Nob3Bz/LzYzNTQwMi9maWxl/cy8xOTQyNzAyMy8x/NjAweDIwNDh4Mi9t/YXR0ZWwtaW5jLXVu/by1mbGlwLmpwZw",
     "https://imgs.search.brave.com/neJPBDMmMTKoHxjA62WgbHm4ikfAE_NUFsqY-Rit5IQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YXJn/ZXQuc2NlbmU3LmNv/bS9pcy9pbWFnZS9U/YXJnZXQvR1VFU1Rf/ZGQxZDI4YmYtMTU2/NS00N2FiLWE1Y2It/NDQxNjA4YmJmM2E3/P3dpZD04MDAmaGVp/PTgwMCZxbHQ9ODAm/Zm10PXBqcGVn"]
-  }
-  };
-
+  },
+ 
 
   "moosemaster": {
     title: "Moose Master",
