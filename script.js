@@ -578,6 +578,24 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
   };
 
 
+  "moosemaster": {
+    title: "Moose Master",
+    category: "Category 2",
+    players: "3+ players",
+    playtime: "30 min",
+    description: "Moose Master sets  up in seconds, is easy to learn and fun for everyone. Start the game by choosing 2 Moose Rules that everyone must follow.",
+    includes: [
+      "44x Moose Master Cards",
+      "20x Moose Rules Cards",
+      "46x Penalty Cards"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  }
+  };
+
    let statusData={};
 async function loadStatus(){
   const cacheBuster = `&_=${new Date().getTime()}`;
