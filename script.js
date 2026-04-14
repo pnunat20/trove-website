@@ -789,7 +789,7 @@ document.addEventListener("click", function(e) {
 loadStatus();
 
 // 🔴 Toggle this to true when under renovation
-const SITE_UNAVAILABLE = false;
+const SITE_UNAVAILABLE = true;
 
 window.addEventListener("DOMContentLoaded", () => {
   if (SITE_UNAVAILABLE) {
