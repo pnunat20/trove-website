@@ -592,9 +592,135 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     donor: "High Council '25-'26",
     images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
     "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
-  }
-  };
+  },
 
+     
+"treatplease": {
+    title: "Treat Please",
+    category: "Category 2",
+    players: "2–5 players",
+    playtime: "15–20 min",
+    description: "Treat Please is a fast-paced card game where players collect and trade treats while using special action cards to outsmart opponents and complete objectives.",
+    includes: [
+        "Treat Cards",
+        "Action Cards",
+        "Rulebook"
+    ],
+    copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://www.gaminglib.com/cdn/shop/files/treat-please-3419885.webp?v=1781052366&width=940",
+]
+  },
+
+"seabattle":{
+    title: "Sea Battle",
+    category: "Category 1",
+    players: "2 players",
+    playtime: "20 min",
+    description: "Sea Battle is a classic naval strategy game where players secretly position their fleet and take turns calling coordinates to locate and sink their opponent's ships.",
+    includes: [
+        "2x Game Boards",
+        "Ship Pieces",
+        "Coordinate Markers"
+    ],
+ copies: 1,
+    donor: "Cyrus Teodoro",
+    images: ["https://imgs.search.brave.com/U7pWHroEiioQ9B8FNZrIueqp-Gjr2g98gga_-QTBtVc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFyUW1CY0x0V0wu/anBn",
+]
+  },
+     
+"chinesecheckers": {
+    title: "Chinese Checkers",
+    category: "Category 1",
+    players: "2–6 players",
+    playtime: "30–45 min",
+    description: "Chinese Checkers is a classic strategy board game where players race to move all of their marbles across the star-shaped board into the opposite corner before their opponents.",
+    includes: [
+        "Star-shaped Game Board",
+        "60 Colored Marbles",
+        "Rulebook"
+        ], 
+    
+     copies: 1,
+    donor: "Cyrus Teodoro",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  },
+
+"massiveverse": {
+    title: "The Massive-Verse Fighting Card Game",
+    category: "Category 1",
+    players: "2 players",
+    playtime: "15–30 min",
+    description: "The Massive-Verse Fighting Card Game is a two-player card battling game based on the Massive-Verse comic universe. Players choose a hero, build momentum, and use attacks, defenses, and special abilities to outplay their opponent in fast-paced tactical combat.",
+    includes: [
+        "2 Hero Decks",
+        "Character Cards",
+        "Health & Momentum Tokens",
+        "Rulebook"
+    ],
+ copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  },
+     
+     "piggyyellow":{
+    title: "Piggy Yellow",
+    category: "Category 3",
+    players: "2–8 players",
+    playtime: "15 min",
+    description: "Piggy Yellow is a cooperative party card game where players try to match the leader's chosen color using clever clue words and shared intuition. Working together, the team wins by successfully matching every color across six rounds.",
+    includes: [
+        "Color Cards",
+        "Piggy Yellow Wild Card",
+        "Rulebook"
+    ], 
+ copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  },
+
+     
+    "kushi":{
+    title: "Kushi Express",
+    category: "Category 3",
+    players: "2–6 players",
+    playtime: "15–20 min",
+    description: "Kushi Express is a fast-paced dexterity game where players race to recreate skewer orders by stacking colorful wooden ingredients as quickly and accurately as possible.",
+    includes: [
+        "Wooden Skewer Sticks",
+        "Wooden Ingredient Pieces",
+        "Order Cards",
+        "Rulebook"
+    ],
+      copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  },
+
+     "traitorsaboard": {
+    title: "Traitors Aboard",
+    category: "Category 1",
+    players: "4–8 players",
+    playtime: "20–40 min",
+    description: "Traitors Aboard is a hidden-role social deduction game where players work together to keep the ship afloat while secretly identifying and stopping traitors among the crew.",
+    includes: [
+        "Role Cards",
+        "Action Cards",
+        "Ship Board",
+        "Tokens",
+        "Rulebook"
+    ],
+        copies: 1,
+    donor: "High Council '25-'26",
+    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
+    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+  },  
+        
+ };
    let statusData={};
 async function loadStatus(){
   const cacheBuster = `&_=${new Date().getTime()}`;
