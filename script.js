@@ -717,7 +717,7 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
         copies: 1,
     donor: "High Council '25-'26",
     images: ["https://imgs.search.brave.com/4QTzet8ma-CzQgj8WUmAAkUC0dwfEHab1BWzLi0ea6Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vMS1Q/Y3MtVHJhaXRvcnMt/QWJvYXJkLVNlY3Jl/dC1JZGVudGl0eS1Q/YXJ0eS1HYW1lLUJs/dWZmaW5nLUJldHJh/eWFsLUVhc3ktTGVh/cm4tUG9wdWxhci1H/YW1lcy0zLTgtUGxh/eWVycy1BZ2VzLTEw/LUZhbWlseS1DYXJk/X2IzYzYyMWRmLWFk/NTUtNDlhMS1hMWVi/LWJkODUwNTBiYzcy/My42NDU3OTQ4ZGYy/MjFhZTRhNmE0MmUx/ZGJkYThlMzE2OC5q/cGVnP29kbkhlaWdo/dD02NDAmb2RuV2lk/dGg9NjQwJm9kbkJn/PUZGRkZGRg",
-             }
+             ]
   },  
         
  };
@@ -931,7 +931,7 @@ function closeMaintenance() {
 document.getElementById('eligibilityIcon').src="https://i.imgur.com/8Ojhue6.png";
 document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
- }); 
+
   
 
 
