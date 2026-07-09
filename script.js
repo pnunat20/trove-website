@@ -931,7 +931,7 @@ function closeMaintenance() {
 document.getElementById('eligibilityIcon').src="https://i.imgur.com/8Ojhue6.png";
 document.getElementById('memberPerkIcon').src="https://i.imgur.com/t7soEjL.png";
 
-  
+ }); 
   
 
 
