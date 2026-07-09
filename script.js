@@ -643,8 +643,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     
      copies: 1,
     donor: "Cyrus Teodoro",
-    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
-    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+    images: ["https://imgs.search.brave.com/EPrHg8cqQ8HQNZJrmiH5pJS4YI0u7F88y4bm2eYVV5k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/eW1pbXBvcnRzLmNv/bS9jZG4vc2hvcC9m/aWxlcy93b29kZW4t/Y2hpbmVzZS1jaGVj/a2Vycy1oYWxtYS1i/b2FyZC1nYW1lLXNl/dC13aXRoLWRyYXdl/cnMtYW5kLWNvbG9y/ZnVsLWdsYXNzLW1h/cmJsZXMtMTVfNy14/LTEzXzYteWVsbG93/LW1vdW50YWluLWlt/cG9ydHNfMTAyNHgx/MDI0LmpwZz92PTE3/ODE3Mzc1NDE",
+   ]
   },
 
 "massiveverse": {
@@ -661,8 +661,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     ],
  copies: 1,
     donor: "High Council '25-'26",
-    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
-    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+    images: ["https://www.gaminglib.com/cdn/shop/files/the-massive-verse-fighting-card-game-2729823.webp?v=1773819811&width=550",
+]
   },
      
      "piggyyellow":{
@@ -678,8 +678,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     ], 
  copies: 1,
     donor: "High Council '25-'26",
-    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
-    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+    images: ["https://www.gaminglib.com/cdn/shop/files/piggy-yellow-1196777.webp?v=1777359369&width=360",
+    ]
   },
 
      
@@ -697,8 +697,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     ],
       copies: 1,
     donor: "High Council '25-'26",
-    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
-    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+    images: ["https://www.gaminglib.com/cdn/shop/files/kushi-express-889361.jpg?v=1768177057&width=550",
+   ]
   },
 
      "traitorsaboard": {
@@ -716,8 +716,8 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
     ],
         copies: 1,
     donor: "High Council '25-'26",
-    images: ["https://imgs.search.brave.com/Fchjv7s9cHCRtx8e9s9m3LVXh_XKQKkkpXF2jsxBr2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L3Nt/b3NoL2ltYWdlcy9k/L2QwL01vb3NlX01h/c3Rlci53ZWJwL3Jl/dmlzaW9uL2xhdGVz/dC9zY2FsZS10by13/aWR0aC1kb3duLzI2/OD9jYj0yMDI1MDMy/NzA4MjcxMA",
-    "https://imgs.search.brave.com/Qr78lDYw2PQJGZhjlhlG3hjopvI6MKtIqpljOHFomWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bS1nLmNvbS5hdS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC8wMTQ0NjgxMDAw/MTFfTW9vc2VfTWFz/dGVyXzIuanBn"]
+    images: ["https://imgs.search.brave.com/4QTzet8ma-CzQgj8WUmAAkUC0dwfEHab1BWzLi0ea6Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vMS1Q/Y3MtVHJhaXRvcnMt/QWJvYXJkLVNlY3Jl/dC1JZGVudGl0eS1Q/YXJ0eS1HYW1lLUJs/dWZmaW5nLUJldHJh/eWFsLUVhc3ktTGVh/cm4tUG9wdWxhci1H/YW1lcy0zLTgtUGxh/eWVycy1BZ2VzLTEw/LUZhbWlseS1DYXJk/X2IzYzYyMWRmLWFk/NTUtNDlhMS1hMWVi/LWJkODUwNTBiYzcy/My42NDU3OTQ4ZGYy/MjFhZTRhNmE0MmUx/ZGJkYThlMzE2OC5q/cGVnP29kbkhlaWdo/dD02NDAmb2RuV2lk/dGg9NjQwJm9kbkJn/PUZGRkZGRg",
+             }
   },  
         
  };
