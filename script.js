@@ -915,7 +915,7 @@ document.addEventListener("click", function(e) {
 loadStatus();
 
 // 🔴 Toggle this to true when under renovation
-const SITE_UNAVAILABLE = true;
+const SITE_UNAVAILABLE = false;
 
 window.addEventListener("DOMContentLoaded", () => {
   if (SITE_UNAVAILABLE) {
