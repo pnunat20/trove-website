@@ -597,7 +597,7 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
      
 "treatplease": {
     title: "Treat Please",
-    category: "Category 2",
+    category: "Category 3",
     players: "2–5 players",
     playtime: "15–20 min",
     description: "Treat Please is a fast-paced card game where players collect and trade treats while using special action cards to outsmart opponents and complete objectives.",
@@ -646,7 +646,7 @@ Turtles can be moved one step forwards, or jump over other turtles. Jumping over
 
 "massiveverse": {
     title: "The Massive-Verse Fighting Card Game",
-    category: "Category 1",
+    category: "Category 2",
     players: "2 players",
     playtime: "15–30 min",
     description: "The Massive-Verse Fighting Card Game is a two-player card battling game based on the Massive-Verse comic universe. Players choose a hero, build momentum, and use attacks, defenses, and special abilities to outplay their opponent in fast-paced tactical combat.",
